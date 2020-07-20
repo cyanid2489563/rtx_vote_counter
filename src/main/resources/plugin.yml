@@ -1,0 +1,8 @@
+name: Rtx_vote_counter
+version: @version@
+main: team.dungeoncraft.rtx_vote_counter.Rtx_vote_counter
+api-version: 1.13
+load: STARTUP
+depend: [PlaceholderAPI]
+loadbefore: [PlaceholderAPI]
+authors: [Cyanide]
